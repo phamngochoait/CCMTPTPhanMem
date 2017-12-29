@@ -91,9 +91,9 @@ namespace QLThuVien_V._2
                         {
                             if ((txtMatKhauMoi.Text == txtXacNhanMatKhau.Text) && txtMatKhauCu.Text == password)
                             {
-                                //DataTable dt = DatabaseService.getDataTable(update);
+                               
                                 DatabaseService.executeQuery(update);
-                                //DatabaseService.executeQuery(them);
+                             
                                 MessageBox.Show("Bạn đã thay đổi mật khẩu thành công");
                                 this.Close();
                             }
