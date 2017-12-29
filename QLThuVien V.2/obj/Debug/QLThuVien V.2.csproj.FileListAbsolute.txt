@@ -1,0 +1,61 @@
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.exe.config
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.exe
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.pdb
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csprojResolveAssemblyReference.cache
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDangNhap.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMain.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.Properties.Resources.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csproj.GenerateResource.Cache
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.exe
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.pdb
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTTSach.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDocGia.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMuonSach.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmNXB.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTacGia.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTheLoai.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTraSach.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDoiMK.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmPhanQuyen.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmRPDSSach.resources
+C:\Users\phuon\Desktop\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmThongKe.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.exe.config
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.exe
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.pdb
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csprojResolveAssemblyReference.cache
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDangNhap.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDocGia.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDoiMK.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMain.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMuonSach.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmNXB.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmPhanQuyen.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmRPDSSach.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTacGia.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTheLoai.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmThongKe.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTraSach.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTTSach.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.Properties.Resources.resources
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csproj.GenerateResource.Cache
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.exe
+C:\Users\PhuongKz\Desktop\WORK\QLThuVien V.2-20161220T082521Z\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.pdb
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\bin\Debug\QLThuVien V.2.exe.config
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.exe
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.pdb
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csprojResolveAssemblyReference.cache
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDangNhap.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDocGia.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmDoiMK.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMain.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmMuonSach.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmNXB.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmPhanQuyen.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmRPDSSach.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTacGia.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTheLoai.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmThongKe.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTraSach.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.frmTTSach.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien_V._2.Properties.Resources.resources
+E:\CongCuPhanMem\DoAnCC\QLThuVien V.2\QLThuVien V.2\obj\Debug\QLThuVien V.2.csproj.GenerateResource.Cache
