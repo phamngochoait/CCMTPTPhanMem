@@ -29,9 +29,9 @@ namespace QLThuVien_V._2
             {
                 MessageBox.Show("Xin chào: " + txtTaiKhoan.Text + "!\nBạn đã đăng nhập thành công!", "Thông báo");
                 this.Hide();
-                //Form main = new frmMain(txtTaiKhoan.Text, txtMatKhau.Text);
+               
                 Form main = new frmMain("admin","admin");
-                //Form main = new frmMain();
+             
                 main.Show();
             }
 
