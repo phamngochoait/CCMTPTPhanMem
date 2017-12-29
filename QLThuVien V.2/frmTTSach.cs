@@ -22,7 +22,7 @@ namespace QLThuVien_V._2
             DataTable dt = DatabaseService.getDataTable(str);
             dataSach.DataSource = dt;
         }
-        // Load Thể Loại
+    
         public void Load_cboxTheLoai()
         {
             string dt = "select * from THELOAI";
@@ -36,7 +36,7 @@ namespace QLThuVien_V._2
             cboxTacGia.DisplayMember = "TenTG";
             cboxTacGia.DataSource = DatabaseService.getDataTable(dt);
         }
-        // Load NXB
+      
         public void Load_cboxNXB()
         {
             string dt = "select * from NXB";
