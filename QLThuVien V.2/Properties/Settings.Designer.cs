@@ -33,6 +33,8 @@ namespace QLThuVien_V._2.Properties {
                 return ((string)(this["QLThuVienVer_2ConnectionString"]));
             }
         }
+
+
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
