@@ -86,6 +86,7 @@ namespace QLThuVien_V._2
                 txtGhiChu.Text = row.Cells[2].Value.ToString();
             }
             catch (Exception) { }
+//manh huy
         }
     }
 }
