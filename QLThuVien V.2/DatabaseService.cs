@@ -34,6 +34,7 @@ namespace QLThuVien_V._2
             }
         }
 
+
         public static void executeQuery(String sql)
         {
             cmd = new SqlCommand();
