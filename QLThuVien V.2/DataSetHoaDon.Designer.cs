@@ -162,7 +162,21 @@ namespace QLThuVien_V._2 {
             cln.SchemaSerializationMode = this.SchemaSerializationMode;
             return cln;
         }
-        
+         private void btnXoa_Click(object sender, EventArgs e)
+        {
+            string xoa = @"delete from THELOAI where MaTL='" + txtMaTL.Text + "'";
+            DialogResult dialog = MessageBox.Show("Bạn có muốn xóa thể loại: " + txtTenTL.Text, "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dialog == DialogResult.Yes)
+            {
+                try
+                {
+                    DatabaseService.executeQuery(xoa);
+                    Load_data();
+                }
+                catch (Exception)
+                {
+                }
+            }
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         protected override bool ShouldSerializeTables() {

@@ -80,7 +80,21 @@ namespace QLThuVien_V._2
                 //
             }
         }
-
+ private void btnXoa_Click(object sender, EventArgs e)
+        {
+            string xoa = @"delete from THELOAI where MaTL='" + txtMaTL.Text + "'";
+            DialogResult dialog = MessageBox.Show("Bạn có muốn xóa thể loại: " + txtTenTL.Text, "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dialog == DialogResult.Yes)
+            {
+                try
+                {
+                    DatabaseService.executeQuery(xoa);
+                    Load_data();
+                }
+                catch (Exception)
+                {
+                }
+            }
         private void btnCapNhat_Click(object sender, EventArgs e)
         {
             string capnhat = @"update THELOAI set TenTL=N'" + txtTenTL.Text + "', GhiChu=N'" + txtGhiChu.Text + "' where MaTL='" + txtMaTL.Text + "'";
