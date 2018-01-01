@@ -4,9 +4,7 @@ namespace QLThuVien_V._2 {
     using System.ComponentModel;
     using CrystalDecisions.Shared;
     using CrystalDecisions.ReportSource;
-    using CrystalDecisions.CrystalReports.Engine;
-    
-    
+    using CrystalDecisions.CrystalReports.Engine; 
     public class RPHoaDon : ReportClass {
         
         public RPHoaDon() {
