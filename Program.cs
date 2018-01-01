@@ -8,6 +8,7 @@ namespace QLThuVien_V._2
 {
     static class Program
     {
+       
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
