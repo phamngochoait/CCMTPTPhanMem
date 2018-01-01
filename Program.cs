@@ -6,7 +6,8 @@ using System.Windows.Forms;
 
 namespace QLThuVien_V._2
 {
-    static class Program
+    
+	static class Program
     {
        
         /// <summary>

@@ -8,7 +8,28 @@ using System.Data;
 using System.Windows.Forms;
 namespace QLThuVien_V._2
 {
-   
+    class DatabaseService
+    {
+        static SqlConnection cnn;
+        static SqlDataAdapter da;
+        static DataSet ds;
+        static SqlCommand cmd;
+        static string source;
+
+        public static void openConnection()
+        {
+            //source = @"Data Source=DESKTOP-KA710V7\SQLEXPRESS;Initial Catalog=QL_TS_THPT_NANGKHIEU;Integrated Security=True;";
+            source = @"Data Source=.\ZHANGLI\SQLEXPRESS;Initial Catalog=QLThuVienVer.2;Integrated Security=True;";
+            cnn = new SqlConnection(source);
+            try
+            {
+                cnn.Open();
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi", "Không thể kết nối CSDL!");
+            }
+        }
    
 
 
