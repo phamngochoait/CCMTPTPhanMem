@@ -7,7 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+     public RPHoaDon() {
+        }
+        
+        public override string ResourceName {
+            get {
+                return "RPHoaDon.rpt";
+            }
+            set {
+                // Do nothing
+            }
+        }
 namespace QLThuVien_V._2
 {
     public partial class frmNXB : Form

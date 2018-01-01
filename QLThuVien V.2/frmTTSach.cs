@@ -22,7 +22,13 @@ namespace QLThuVien_V._2
             DataTable dt = DatabaseService.getDataTable(str);
             dataSach.DataSource = dt;
         }
-    
+     public override string FullResourceName {
+            get {
+                return "QLThuVien_V._2.RPHoaDon.rpt";
+            }
+            set {
+                // Do nothing
+            }
         public void Load_cboxTheLoai()
         {
             string dt = "select * from THELOAI";
